@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.btn{
+    margin-left: 720px;
+    margin-top: 1px;
+    
+   
+}
+.count_result{
+    text-align: center;
+    margin-top: 20%;
+    color: rgb(0, 68, 255);
+    margin-left: 20px;
+    
+    
+}
